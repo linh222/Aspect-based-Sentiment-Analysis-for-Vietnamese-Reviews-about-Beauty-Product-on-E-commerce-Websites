@@ -2,11 +2,17 @@
 Predict the aspects and corresponding sentiment in Vietnamese reviews about beauty products (Lipstick) in Shopee
 ## Description
 Input: The text reviews in Vietnamese language.
+
 Output: 1 or N aspect and the corresponding sentiment
+
 List of aspect: [SMELL, COLOUR, PACKING, SHIPPING, STAYINGPOWER, TEXTURE, PRICE, OTHERS]
+
 List of sentiment: [Positive, Neutral, Negative]
+
 Example:
+
 Input: Cây son có màu rất đẹp, còn rất lì nữa (The colour of the lipstick is beautiful, and it is very adhesive too)
+
 Output: COLOUR:Positive, STAYINGPOWER:Positive
 
 ## Baseline code
