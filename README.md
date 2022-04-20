@@ -19,8 +19,8 @@ Output: COLOUR:Positive, STAYINGPOWER:Positive
 We propose 5 models: BiLSTM, BiGRU, BiLSTM+Conv1D, BiGRU+Conv1D, BiLSTM+BiGRU+Conv1D.
 In addition, we implement two approaches for Single-task learning and Multi-task learning
 
-##Publication
+## Publication
 In Review
 
-##Data
+## Data
 If you have interested in the problem, please don't hesitate to contact me at 18520997@gm.uit.edu.vn to get the dataset.
