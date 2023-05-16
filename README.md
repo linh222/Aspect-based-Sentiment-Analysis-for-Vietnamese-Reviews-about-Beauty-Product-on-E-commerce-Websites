@@ -15,12 +15,31 @@ Input: Cây son có màu rất đẹp, còn rất lì nữa (The colour of the l
 
 Output: COLOUR:Positive, STAYINGPOWER:Positive
 
+## Data
+If you have interested in the problem, please don't hesitate to contact me at 18520997@gm.uit.edu.vn to get the dataset.
+
 ## Baseline code
 We propose 5 models: BiLSTM, BiGRU, BiLSTM+Conv1D, BiGRU+Conv1D, BiLSTM+BiGRU+Conv1D.
 In addition, we implement two approaches for Single-task learning and Multi-task learning
 
 ## Publication
-In Review
+The 36th Pacific Asia Conference on Language, Information and Computation (PACLIC36)
+Link: https://aclanthology.org/2022.paclic-1.84/
 
-## Data
-If you have interested in the problem, please don't hesitate to contact me at 18520997@gm.uit.edu.vn to get the dataset.
+Please cite this paper at:
+
+    @inproceedings{tran-etal-2022-aspect,
+    title = "Aspect-based Sentiment Analysis for {V}ietnamese Reviews about Beauty Product on {E}-commerce Websites",
+    author = "Tran, Quang-Linh  and
+      Le, Phan Thanh Dat  and
+      Do, Trong-Hop",
+    booktitle = "Proceedings of the 36th Pacific Asia Conference on Language, Information and Computation",
+    month = oct,
+    year = "2022",
+    address = "Manila, Philippines",
+    publisher = "De La Salle University",
+    url = "https://aclanthology.org/2022.paclic-1.84",
+    pages = "767--776",
+    }
+
+
